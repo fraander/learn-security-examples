@@ -1,0 +1,3 @@
+A privilege escalation threat is basically a cyber attack where someone tries to gain more access (privileges) on a computer system than they're initially authorized for.
+
+This is dangerous because with more privileges, attackers can do more damage. They can steal even more sensitive data, install malware, or disrupt critical systems.

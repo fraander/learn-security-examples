@@ -1,3 +1,8 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+An information disclosure threat occurs when unauthorized individuals gain access to sensitive information. 
+
 Which CIA property does tampering violate?
+This violates the integrity property since it allows data to be accessed when it should not be.
+
 What additional security mechanisms can you incorporate?
+Sanitize any data going in or out of the system so that SQL injections cannot be successful.
